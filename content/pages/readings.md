@@ -415,7 +415,7 @@ Money & Elections
 
 [_Opinion of Justice Stevens. Citizens United, Appellant v Federal Election Commission_](https://supreme.justia.com/cases/federal/us/558/310/cdinpart.html). U.S. Supreme Court, 2010.
 
-"[American Democracy in an Age of Rising Inequality (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/taskforcereport.pdf)." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
+"[American Democracy in an Age of Rising Inequality (PDF)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/taskforcereport.pdf)." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
 
 [See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec20)
 
